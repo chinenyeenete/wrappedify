@@ -1,7 +1,7 @@
-## 🎧ྀི Wrappedify 🔁
+# 🎧ྀི Wrappedify 🔁
 *Why wait till December when you can get your spotify wrapped right now?
 This project utilizes python libraries and jupyter notebook in displaying your music taste based on your spotify streaming history.*
-### How to Run
+## How to Run
 ```bash
  download your spotify data
 ```
@@ -17,4 +17,4 @@ This project utilizes python libraries and jupyter notebook in displaying your m
 ```bash
  run all cells in jupyter notebook
 ```
-*I am planning on building an API with the notebook code as a structure, but open to other suggestions.*
+*The notebook, whilst fully functional, is an idea lab + testing ground for a bigger project. Open to any suggestions on what :)*
